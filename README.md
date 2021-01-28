@@ -1,4 +1,4 @@
-# GitPraxis
+# Practice For Git
 
 <img align="center" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height='425' width='375'/> 
 
